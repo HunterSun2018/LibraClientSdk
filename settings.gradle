@@ -1,2 +1,2 @@
-include ':app', ':libraclientlibrary'
+include ':libraclientlibrary'
 rootProject.name='LibraClientSdk'
